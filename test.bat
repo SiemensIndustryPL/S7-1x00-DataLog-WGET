@@ -1,0 +1,1 @@
+wget --no-check-certificate --secure-protocol=auto --referer=https://192.168.0.61/Portal/Portal.mwsl?PriNav=FileBrowser https://192.168.0.61/FileBrowser/Download?Path=/DataLogs/logi.csv --output-document=c:\Users\Tomek\DataLog_LogOn_S7-1200.csv
